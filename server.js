@@ -6,7 +6,7 @@ const app=express()
 
 app.use("/", serveStatic(path.join(__dirname, "/dist")))
 
-const port=process.env.port || 8000
-app.listen(port)
-
-console.log("aplikasi berjalan di port"+port)
+const server=app.listen(process.env.PORT||8080, ()=>{
+    const port=server.address().port
+    console.log(`aplikasi berjalan diport ${port}`)
+})
