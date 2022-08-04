@@ -1,7 +1,7 @@
 <template>
 <div>
   <b-navbar toggleable="sm" type="light" variant="light">
-    <b-navbar-brand href="https://journalkeberlanjutan.com"><img src="@/assets/catraLogo.png" width="230" height="80" alt=""
+    <b-navbar-brand href="#HomeView"><img src="@/assets/catraLogo.png" width="230" height="80" alt=""
       /></b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
