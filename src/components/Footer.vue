@@ -7,18 +7,17 @@
             <img src="@/assets/logoP.png" width="300" height="80" />
             <br />
             <br />
-            <h3>About Us</h3>
+            <h4><strong>About Us</strong></h4>
             <p class="text-justify">
-              Catra Research Institute" under the auspices of PT. Keberlanjutan
+              Catra Research Institute under the auspices of PT.Keberlanjutan
               Strategis Indonesia, accommodates publications for academics,
               students, and practitioners, namely the Journal of Tourism
               Economics and Policy (JTEP), Akuntansi dan Humaniora: Jurnal
               Pengabdian Masyarakat (AHJPM), and the International Journal of
               Environment, Sustainability, and Social Sciences (IJESSS), Journal
-              of Governance, Taxation and Auditing (JoGTA), International
-              Journal of Agriculture Innovation and Rural Development (IJAIRD),
+              of Governance, Taxation and Auditing (JoGTA), The Linguistica Journal (TLJ),
               International Journal Of Sustainability Environmental Management
-              Accounting : Conference Series (IJSEMACS), Journal of Information
+              Accounting: Conference Series (IJSEMACS), Journal of Information
               Systems, Digitization and Business (JISDB) and Protection: Journal
               Of Land And Environmental Law (PJLE) while the aim of this journal
               is to contribute to government, companies, and society as part of
@@ -53,7 +52,7 @@
               <li>
                 <a
                   href="https://www.instagram.com/catraresearch/"
-                  class="twitter"
+                  class="instagram"
                   target="_blank"
                   ><svg
                     viewBox="0 0 16 16"
@@ -74,7 +73,10 @@
                 ></a>
               </li>
               <li>
-                <a href="https://wa.me/6281120011644" class="linkedin" target="_blank"
+                <a
+                  href="https://wa.me/6281120011644"
+                  class="linkedin"
+                  target="_blank"
                   ><svg
                     viewBox="0 0 16 16"
                     width="1em"
@@ -85,7 +87,6 @@
                     xmlns="http://www.w3.org/2000/svg"
                     fill="currentColor"
                     class="bi-whatsapp b-icon bi"
-                    
                   >
                     <g>
                       <path
@@ -96,53 +97,68 @@
               </li>
             </ul>
           </div>
-          <div class="col-sm-12 col-md-2">
-            <h3>Sitemap</h3>
-            <br />
+          <div class="pinggir col-sm-12 col-md-2">
+            <h4><strong>Sitemap</strong></h4>
             <a href="#HomeView">
               <p><b-icon icon="caret-right"></b-icon> Home</p>
             </a>
             <a href="#layananKami">
-              <p><b-icon icon="caret-right"></b-icon> Layanan Kami</p>
+              <p><b-icon icon="caret-right"></b-icon> Services</p>
             </a>
             <a href="#journal">
               <p><b-icon icon="caret-right"></b-icon> Journal</p>
             </a>
             <a href="#Keunggulan">
-              <p><b-icon icon="caret-right"></b-icon> Keunggulan</p>
+              <p><b-icon icon="caret-right"></b-icon> Expertise</p>
+            </a>
+            <a href="#Skema">
+              <p><b-icon icon="caret-right"></b-icon> Translator Schema</p>
+            </a>
+            <a href="#ProsedurEditing">
+              <p><b-icon icon="caret-right"></b-icon> Procedures </p>
+            </a>
+            <a href="#EditorialT">
+              <p><b-icon icon="caret-right"></b-icon> Editorial Team </p>
             </a>
             <a href="#ContactUs">
               <p><b-icon icon="caret-right"></b-icon> Contact</p>
             </a>
           </div>
-                    <div class="col-sm-12 col-md-2">
-            <h3>Layanan</h3>
-            <br />
+          <div class="pinggir col-sm-12 col-md-2">
+            <h4><strong>Services</strong></h4>
             <a href="#layananKami">
-              <p><b-icon icon="caret-right"></b-icon> Asistensi Indexing DOAJ</p>
+              <p>
+                <b-icon icon="caret-right"></b-icon> DOAJ Indexing assistance
+              </p>
             </a>
             <a href="#layananKami">
-              <p><b-icon icon="caret-right"></b-icon> Program Riset dan Pusat Kajian</p>
+              <p>
+                <b-icon icon="caret-right"></b-icon> Research program and study center
+              </p>
             </a>
             <a href="#layananKami">
               <p><b-icon icon="caret-right"></b-icon> Proofreading</p>
             </a>
             <a href="#layananKami">
-              <p><b-icon icon="caret-right"></b-icon> Develop Open Journal System</p>
+              <p>
+                <b-icon icon="caret-right"></b-icon> Develop Open Journal system
+              </p>
             </a>
             <a href="#layananKami">
-              <p><b-icon icon="caret-right"></b-icon> Pengolahan Data</p>
+              <p><b-icon icon="caret-right"></b-icon> Data processing</p>
             </a>
           </div>
         </div>
         <hr />
       </div>
       <div class="container">
-        <div class="row">
+        <div class="hiji row">
           <div class="col-md-8 col-sm-6 col-xs-12">
             <p1 class="copyright-text">
               Copyright &copy; 2022 All Rights Reserved by
-              <a href="https://www.strategis.co.id/" target="_blank">PT.Keberlanjutan Strategis Indonesia</a>.
+              <a href="https://www.strategis.co.id/" target="_blank"
+                >PT.Keberlanjutan Strategis Indonesia</a
+              >.
             </p1>
           </div>
 

@@ -1,4 +1,4 @@
-import AboutViewVue from '@/views/AboutView.vue'
+import AboutView from '@/views/AboutView.vue'
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
@@ -12,9 +12,9 @@ const routes = [
     component: HomeView
   },
   {
-    path: '/about',
-    name: 'about',
-    component: AboutViewVue
+    path: '/ind',
+    name: 'ind',
+    component: AboutView
   }
 ]
 
